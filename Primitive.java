@@ -4,10 +4,10 @@ public class Main {
         System.out.println("Population: " + population);
     }
 }
-#double
+#float
 public class Main {
     public static void main(String[] args) {
-        double weight = 65.789;
+        float weight = 65.789;
         System.out.println("Weight: " + weight);
     }
 }
